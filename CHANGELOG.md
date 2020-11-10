@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.2](https://github.com/knightdna/semver-demo/compare/v1.0.1...v1.0.2) (2020-11-10)
+
+
+### Bug Fixes
+
+* Minor bugfix [#3](https://github.com/knightdna/semver-demo/issues/3) ([9bdb699](https://github.com/knightdna/semver-demo/commit/9bdb6994b2351d4918a47c7f00335eaff1999814))
+
 ### [1.0.1](https://github.com/knightdna/semver-demo/compare/v1.0.0...v1.0.1) (2020-11-10)
 
 
