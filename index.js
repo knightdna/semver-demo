@@ -1,5 +1,5 @@
 const main = () => {
-    console.log('Hejsan allihoppa!');
+    console.log('Hejsan allihopa!');
 };
 
 exports.main = main;
