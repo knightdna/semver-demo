@@ -4,7 +4,10 @@
   "description": "Semantic versioning demo",
   "main": "index.js",
   "scripts": {
-    "semantic-release": "semantic-release",
+    "release": "standard-version",
+    "release:minor": "standard-version --release-as minor",
+    "release:patch": "standard-version --release-as patch",
+    "release:major": "standard-version --release-as major",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,7 +18,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "semantic-release": "17.2.2"
+    "standard-version": "9.0.0"
   },
   "bugs": {
     "url": "https://github.com/knightdna/semver-demo/issues"
