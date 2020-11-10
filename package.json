@@ -15,7 +15,7 @@
     "url": "git+https://github.com/knightdna/semver-demo.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Diaz Novandi",
   "license": "ISC",
   "dependencies": {
     "standard-version": "9.0.0"
